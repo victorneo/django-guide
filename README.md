@@ -32,7 +32,8 @@ the same material as they do during their workshops.
 
 ## Guides
 
-*Coming soon!*
+- Optimizing Database Calls (*Coming soon!*)
+- Instrumenting your Django app (*Coming soon!*)
 
-
-
+Have a particular topic which you would like to learn more? Let us know by
+creating an issue!
