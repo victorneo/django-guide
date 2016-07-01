@@ -25,3 +25,4 @@ For a more detailed introduction, you may wish to work through the [Django Girls
 - Instrumenting your Django app (*Coming soon!*)
 
 Have a particular topic which you would like to learn more? Let us know by creating an issue!
+
