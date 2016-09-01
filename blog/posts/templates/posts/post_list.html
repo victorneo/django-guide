@@ -1,0 +1,10 @@
+<html>
+<body>
+  {% for p in object_list %}
+  <h1>{{ p.title }}</h1>
+  <h4>Written by {{ p.author.first_name }}</h4>
+  <p>{{ p.content }}</p>
+  <hr/>
+  {% endfor %}
+</body>
+</html>
